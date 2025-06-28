@@ -82,4 +82,24 @@ It includes:
 
 High-fidelity wireframes like this are typically used in the later stages of the design process to help developers and stakeholders visualize the final product more accurately before development begins.
 
+## Wireframing Tools
+
+There are several tools available to help designers create wireframes. These tools make it easy to plan and visualize user interfaces before development begins.
+
+### Popular Wireframing Tools:
+- **Figma** – A cloud-based tool for wireframing, UI design, and prototyping
+- **Adobe XD** – A powerful design tool for wireframes and interactive prototypes
+- **Sketch** – A macOS-based UI design tool commonly used for high-fidelity wireframes
+- **Balsamiq** – Known for quick, low-fidelity wireframe sketches
+- **MockFlow** – A simple drag-and-drop tool for early wireframing
+
+### Why Figma?
+
+Figma is one of the most widely used wireframing tools today. It is:
+- **Free and web-based**, so you can access it from any device
+- **Collaborative**, allowing multiple team members to design and give feedback in real time
+- **Easy to use**, with drag-and-drop features and built-in components
+- **Flexible**, supporting both low-fidelity wireframes and high-fidelity UI prototypes
+
+Figma helps streamline the design process by combining layout, feedback, and interactive prototyping in one platform. It’s especially useful for teams working remotely or cross-functionally.
 
