@@ -38,3 +38,48 @@ This refers to where text, images, videos, and other content will appear on the 
 ### 4. Functionality
 Functionality represents how the user interacts with the interface — even in a basic form.  
 **Example:** A wireframe might include a button labeled “Book Now” that shows what happens when clicked (like a pop-up or next step). This helps visualize what actions are possible on the page.
+
+## Types of Wireframes
+
+Wireframes can be created in different levels of detail depending on the stage of the design process. The two most common types are:
+
+### Low-Fidelity Wireframes
+
+These are simple and quick sketches or digital outlines that focus on the basic layout and structure without any detailed design elements. They are often black and white and use placeholders for images and text.
+
+**When to use:**  
+- In the early stages of a project  
+- When brainstorming layout ideas  
+- To get fast feedback from stakeholders
+
+**Example:**  
+A rough sketch showing a header, sidebar, and content blocks with boxes labeled "Image" or "Text."
+
+### High-Fidelity Wireframes
+
+These are more detailed and polished wireframes that closely resemble the final product. They include actual content, specific fonts, spacing, images, and sometimes interactivity (like clickable buttons in tools like Figma).
+
+**When to use:**  
+- In the later stages of design  
+- Before prototyping or development  
+- To show how the final product will look and feel
+
+**Example:**  
+A realistic mockup with full color, icons, actual text, and a working navigation menu.
+
+---
+
+## What Type of Wireframe Is This?
+
+The wireframe in this [Figma design](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=vOPs5wmQPU10afDK-0) is a **High-Fidelity Wireframe**.
+
+It includes:
+- Detailed UI elements (buttons, icons, and images)
+- Real or placeholder text
+- A visually polished layout
+- Proper spacing, fonts, and colors
+- Clear interaction flow
+
+High-fidelity wireframes like this are typically used in the later stages of the design process to help developers and stakeholders visualize the final product more accurately before development begins.
+
+
